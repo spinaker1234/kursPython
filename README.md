@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+nie
+
 # kursPython
+>>>>>>> f12ccbfefe438c71bb4634b875aca43e8bc675bd
 Testowe repo dla kursantow
 <<<<<<< HEAD
 to jest nowa linia
