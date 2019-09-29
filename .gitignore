@@ -23,6 +23,11 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+kkmx,xx,x,,x,x
+
+
+mmsmmsmss
 MANIFEST
 
 # PyInstaller
@@ -102,3 +107,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+l,,;,s;,;d,slsmsl
