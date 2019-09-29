@@ -1,2 +1,2 @@
-# kursPython
+SJJSJS
 Testowe repo dla kursantow
